@@ -17,7 +17,7 @@ const config = {
 // Authentication Parameters
 const authenticationParameters = {
   scopes: [
-    ''
+    '' // Copy/paste your API scope from Azure portal
   ]
 }
 
